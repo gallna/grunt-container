@@ -1,4 +1,4 @@
-FROM gallna/node
+FROM gallna/node:4.x
 MAINTAINER Tomasz Jonik <tomasz@hurricane.works>
 
 # Install Bower & Grunt's command line interface
